@@ -63,6 +63,7 @@ Table of Contents
     - [**Fossdroid**](https://fossdroid.com/)
     - [**Foxy Droid**](https://github.com/kitsunyan/foxy-droid) <sup>**[[F-Droid](https://f-droid.org/app/nya.kitsunyan.foxydroid)]**</sup>
 - [**Aurora Store**](https://gitlab.com/AuroraOSS/AuroraStore) <sup>**[[F-Droid](https://f-droid.org/app/com.aurora.store)]**</sup>
+- [**Yalp Store**](https://github.com/yeriomin/YalpStore) <sup>**[[F-Droid](https://f-droid.org/app/com.github.yeriomin.yalpstore)]**</sup>
 
 ------------------------
 
@@ -73,9 +74,14 @@ Table of Contents
 - [**Blockada**](https://github.com/blokadaorg/blokada) <sup>**[[F-Droid](https://f-droid.org/app/org.blokada.alarm)]**</sup>
 - [**DNS66**](https://github.com/julian-klode/dns66) <sup>**[[F-Droid](https://f-droid.org/app/org.jak_linux.dns66)]**</sup>
 - [**DNSFilter**](https://github.com/IngoZenz/personaldnsfilter) <sup>**[[F-Droid](https://f-droid.org/app/dnsfilter.android)]**</sup>
+- [**RethinkDNS**](https://github.com/celzero/rethink-app) <sup>**[[F-Droid](https://f-droid.org/app/com.celzero.bravedns)]**</sup>
+- [**TrackerControl**](https://github.com/OxfordHCC/tracker-control-android) <sup>**[[F-Droid](https://f-droid.org/app/net.kollnig.missioncontrol.fdroid)]**</sup>
+
 
 ### • Automation
 - [**Easer**](https://github.com/renyuneyun/Easer) <sup>**[[F-Droid](https://f-droid.org/app/ryey.easer)]**</sup>
+- [**Automation**](https://git.server47.de/jens/Automation) <sup>**[[F-Droid](https://f-droid.org/app/com.jens.automation2)]**</sup>
+
 
 ### • Browser
 - [**Firefox**](https://www.mozilla.org/firefox/android/)
@@ -86,10 +92,11 @@ Table of Contents
 - [**Bromite**](https://www.bromite.org/)
 - [**DuckDuckGo Privacy Browser**](https://github.com/duckduckgo/Android) <sup>**[[F-Droid](https://f-droid.org/app/com.duckduckgo.mobile.android)]**</sup>
 - [**SmartCookieWeb**](https://github.com/CookieJarApps/SmartCookieWeb) <sup>**[[F-Droid](https://f-droid.org/app/com.cookiegames.smartcookie)]**</sup>
+- [**Privacy Browser**](https://gitweb.stoutner.com/?p=PrivacyBrowser.git) <sup>**[[F-Droid](https://f-droid.org/app/com.stoutner.privacybrowser.standard)]**</sup>
+- [**Monocles Browser**](https://codeberg.org/Arne/monocles_browser) <sup>**[[F-Droid](https://f-droid.org/app/de.monocles.browser)]**</sup>
 
 
 ### • Calculator
-- [**Calculator**](https://github.com/Xlythe/Calculator) <sup>**[[F-Droid](https://f-droid.org/app/com.xlythe.calculator.material)]**</sup>
 - [**Simple Calculator**](https://github.com/SimpleMobileTools/Simple-Calculator) <sup>**[[F-Droid](https://f-droid.org/app/com.simplemobiletools.calculator)]**</sup>
 
 
@@ -101,10 +108,10 @@ Table of Contents
 ### • Camera
 - [**Open Camera**](http://opencamera.sourceforge.net/) <sup>**[[F-Droid](https://f-droid.org/app/net.sourceforge.opencamera)]**</sup>
 - [**Simple Camera**](https://github.com/SimpleMobileTools/Simple-Camera) <sup>**[[F-Droid](https://f-droid.org/app/com.simplemobiletools.camera)]**</sup>
+- [**Cryptocam**](https://gitlab.com/cryptocam/cryptocam) <sup>**[[F-Droid](https://f-droid.org/en/app/com.tnibler.cryptocam)]**</sup>
 
 
 ### • Clock & Time
-- [**Clock+**](https://github.com/philliphsu/ClockPlus) <sup>**[[F-Droid](https://f-droid.org/app/com.philliphsu.clock2)]**</sup>
 - [**Simple Clock**](https://github.com/SimpleMobileTools/Simple-Clock) <sup>**[[F-Droid](https://f-droid.org/app/com.simplemobiletools.clock)]**</sup>
 
 
@@ -113,7 +120,7 @@ Table of Contents
 - [**Twire**](https://github.com/twireapp/Twire) <sup>**[[F-Droid](https://f-droid.org/app/com.perflyst.twire)]**</sup>
 - [**OctoDroid**](https://github.com/slapperwan/gh4a) <sup>**[[F-Droid](https://f-droid.org/app/com.gh4a)]**</sup>
 - [**Twidere**](https://github.com/TwidereProject/Twidere-Android) <sup>**[[F-Droid](https://f-droid.org/app/org.mariotaku.twidere)]**</sup>
-- [**Infinity for Reddit**](https://github.com/Docile-Alligator/Infinity-For-Reddit)
+- [**Infinity for Reddit**](https://github.com/Docile-Alligator/Infinity-For-Reddit) <sup>**[[F-Droid](https://f-droid.org/app/ml.docilealligator.infinityforreddit)]**</sup>
 - [**Barinsta**](https://barinsta.austinhuang.me) <sup>**[[F-Droid](https://f-droid.org/app/me.austinhuang.instagrabber)]**</sup>
 
 
@@ -123,6 +130,7 @@ Table of Contents
 
 ### • Dialer
 - [**Simple Dialer**](https://github.com/SimpleMobileTools/Simple-Dialer) <sup>**[[F-Droid](https://f-droid.org/app/com.simplemobiletools.dialer)]**</sup>
+- [**Koler**](https://github.com/Chooloo/koler)
 
 
 ### • Document & PDF Viewer
@@ -164,9 +172,10 @@ Table of Contents
 
 
 ### • Image Viewer & Gallery
-- [**LeafPic**](https://github.com/HoraApps/LeafPic) <sup>**[[F-Droid](https://f-droid.org/app/org.horaapps.leafpic)]**</sup>
+- [**LeafPic Revived**](https://github.com/apcro/leafpicrevived) <sup>**[[F-Droid](https://f-droid.org/app/com.alienpants.leafpicrevived)]**</sup>
 - [**Simple Gallery**](https://github.com/SimpleMobileTools/Simple-Gallery) <sup>**[[F-Droid](https://f-droid.org/app/com.simplemobiletools.gallery.pro)]**</sup>
 - [**Camera Roll**](https://github.com/kollerlukas/Camera-Roll-Android-App) <sup>**[[F-Droid](https://f-droid.org/app/us.koller.cameraroll)]**</sup>
+- [**Stingle Photos**](https://github.com/stingle/stingle-photos-android) <sup>**[[F-Droid](https://f-droid.org/app/org.stingle.photos)]**</sup>
 
 
 ### • Keyboard
@@ -186,6 +195,7 @@ Table of Contents
 - [**Simple Keyboard**](https://github.com/rkkr/simple-keyboard) <sup>**[[F-Droid](https://f-droid.org/app/rkr.simplekeyboard.inputmethod)]**</sup>
 - [**OpenBoard**](https://github.com/dslul/openboard) <sup>**[[F-Droid](https://f-droid.org/app/org.dslul.openboard.inputmethod.latin)]**</sup>
 - [**Indic Keyboard**](https://gitlab.com/indicproject/indic-keyboard) <sup>**[[F-Droid](https://f-droid.org/packages/org.smc.inputmethod.indic)]**</sup>
+- [**FlorisBoard**](https://github.com/florisboard/florisboard) <sup>**[[F-Droid](https://f-droid.org/packages/dev.patrickgold.florisboard)]**</sup>
 
 ### • Launcher & Desktop
 - [**OpenLauncher**](https://github.com/BennyKok/OpenLauncher) <sup>**[[F-Droid](https://f-droid.org/app/com.benny.openlauncher)]**</sup>
@@ -197,10 +207,8 @@ Table of Contents
 - [**LaunchTime**](https://github.com/quaap/LaunchTime) <sup>**[[F-Droid](https://f-droid.org/app/com.quaap.launchtime)]**</sup>
 - [**PaperLaunch**](https://github.com/devmil/PaperLaunch) <sup>**[[F-Droid](https://f-droid.org/app/de.devmil.paperlaunch)]**</sup>
 - [**Emerald Launcher**](https://github.com/HenriDellal/emerald) <sup>**[[F-Droid](https://f-droid.org/app/ru.henridellal.emerald)]**</sup>
-- [**Essential Launcher**](https://github.com/clemensbartz/essential-launcher) <sup>**[[F-Droid](https://f-droid.org/app/de.clemensbartz.android.launcher)]**</sup>
 - [**Rootless Pixel Launcher**](https://github.com/amirzaidi/Launcher3) <sup>**[[F-Droid](https://f-droid.org/app/amirz.rootless.nexuslauncher)]**</sup>
 - [**BlissLauncher**](https://gitlab.e.foundation/e/apps/BlissLauncher) <sup>**[[F-Droid](https://f-droid.org/app/foundation.e.blisslauncher)]**</sup>
-- [**Posidon Launcher**](https://github.com/leoxshn/posidonLauncher) <sup>**[[F-Droid](https://f-droid.org/app/posidon.launcher)]**</sup>
 - [**Discreet Launcher**](https://github.com/falzonv/discreet-launcher) <sup>**[[F-Droid](https://f-droid.org/app/com.vincent_falzon.discreetlauncher)]**</sup>
 
 
@@ -215,6 +223,7 @@ Table of Contents
   - [Parking Spot](http://osmand.net/features?id=parking-plugin) <sup>**[[F-Droid](https://f-droid.org/app/net.osmand.parkingPlugin)]**</sup>
 - [**Transportr**](https://github.com/grote/transportr) <sup>**[[F-Droid](https://f-droid.org/app/de.grobox.liberario)]**</sup>
 - [**Private Location**](https://github.com/wesaphzt/privatelocation) <sup>**[[F-Droid](https://f-droid.org/app/com.wesaphzt.privatelocation)]**</sup>
+- [**Organic Maps**](https://github.com/organicmaps/organicmaps) <sup>**[[F-Droid](https://f-droid.org/app/app.organicmaps)]**</sup>
 
 
 ### • Media Frontends
@@ -227,17 +236,23 @@ Table of Contents
 - [**Silence**](https://github.com/SilenceIM/Silence) <sup>**[[F-Droid](https://f-droid.org/app/org.smssecure.smssecure)]**</sup>
 - [**Ring**](https://ring.cx/) <sup>**[[F-Droid](https://f-droid.org/app/cx.ring)]**</sup>
 - [**Kontalk**](https://github.com/kontalk/androidclient) <sup>**[[F-Droid](https://f-droid.org/app/org.kontalk)]**</sup>
-- [**Pix-Art Messenger**](https://github.com/kriztan/Pix-Art-Messenger) <sup>**[[F-Droid](https://f-droid.org/app/de.pixart.messenger)]**</sup>
 - [**Telegram-FOSS**](https://github.com/Telegram-FOSS-Team/Telegram-FOSS) <sup>**[[F-Droid](https://f-droid.org/app/org.telegram.messenger)]**</sup>
 - [**Element**](https://github.com/vector-im/element-android) <sup>**[[F-Droid](https://f-droid.org/app/im.vector.app)]**</sup>
 - [**Signal**](https://github.com/signalapp/Signal-Android)
 - [**Jitsi Meet**](https://github.com/jitsi/jitsi-meet) <sup>**[[F-Droid](https://f-droid.org/app/org.jitsi.meet)]**</sup>
+- [**blabber.im**](https://codeberg.org/kriztan/blabber.im) <sup>**[[F-Droid](https://f-droid.org/app/de.pixart.messenger)]**</sup>
 
 
 ### • Miscellaneous
 - [**Simple Voice Recorder**](https://github.com/SimpleMobileTools/Simple-Voice-Recorder) <sup>**[[F-Droid](https://f-droid.org/app/com.simplemobiletools.voicerecorder)]**</sup>
 - [**KouChat**](https://github.com/blurpy/kouchat-android) <sup>**[[F-Droid](https://f-droid.org/app/net.usikkert.kouchat.android)]**</sup>
 - [**Feeder**](https://gitlab.com/spacecowboy/Feeder) <sup>**[[F-Droid](https://f-droid.org/app/com.nononsenseapps.feeder)]**</sup>
+- [**Scrambled Exif**](https://gitlab.com/juanitobananas/scrambled-exif) <sup>**[[F-Droid](https://f-droid.org/app/com.jarsilio.android.scrambledeggsif)]**</sup>
+- [**ImagePipe**](https://codeberg.org/Starfish/Imagepipe) <sup>**[[F-Droid](https://f-droid.org/app/de.kaffeemitkoffein.imagepipe)]**</sup>
+- [**Trail Sense**](https://github.com/kylecorry31/Trail-Sense) <sup>**[[F-Droid](https://f-droid.org/app/com.kylecorry.trail_sense)]**</sup>
+- [**Loop Habit Tracker**](https://github.com/iSoron/uhabits) <sup>**[[F-Droid](https://f-droid.org/app/org.isoron.uhabits)]**</sup>
+- [**Editor**](https://github.com/billthefarmer/editor) <sup>**[[F-Droid](https://f-droid.org/app/org.billthefarmer.editor)]**</sup>
+- [**LibreTorrent**](https://github.com/proninyaroslav/libretorrent) <sup>**[[F-Droid](https://f-droid.org/app/org.proninyaroslav.libretorrent)]**</sup>
 
 
 ### • Music
@@ -257,8 +272,9 @@ Table of Contents
 - [**Transistor**](https://github.com/y20k/transistor) <sup>**[[F-Droid](https://f-droid.org/app/org.y20k.transistor)]**</sup>
 - [**Vinyl Music Player**](https://github.com/AdrienPoupa/VinylMusicPlayer) <sup>**[[F-Droid](https://f-droid.org/app/com.poupa.vinylmusicplayer)]**</sup>
 - [**Music Player GO**](https://github.com/enricocid/Music-Player-GO) <sup>**[[F-Droid](https://f-droid.org/app/com.iven.musicplayergo)]**</sup>
-- [**Pulse Music**](https://github.com/HardcodeCoder/PulseMusic) <sup>**[[F-Droid](https://f-droid.org/app/com.hardcodecoder.pulsemusic)]**</sup>
 - [**Odeon**](https://github.com/thibseisel/android-odeon) <sup>**[[F-Droid](https://f-droid.org/app/fr.nihilus.music)]**</sup>
+- [**Metro**](https://github.com/MuntashirAkon/Metro) <sup>**[[F-Droid](https://f-droid.org/app/io.github.muntashirakon.Music)]**</sup>
+- [**Auxio**](https://github.com/OxygenCobalt/Auxio) <sup>**[[F-Droid](https://f-droid.org/app/org.oxycblt.auxio)]**</sup>
 
 
 ### • Notes
@@ -286,11 +302,12 @@ Table of Contents
 - [**Bitwarden Mobile**](https://github.com/bitwarden/mobile)
 
 
-## • Podcast & Audio Book Player
+### • Podcast & Audio Book Player
 - [**MaterialAudiobookPlayer**](https://github.com/PaulWoitaschek/MaterialAudiobookPlayer) <sup>**[[F-Droid](https://f-droid.org/app/de.ph1b.audiobook)]**</sup>
 - [**Audio Anchor**](https://github.com/flackbash/AudioAnchor) <sup>**[[F-Droid](https://f-droid.org/app/com.prangesoftwaresolutions.audioanchor)]**</sup>
 - [**Escapepod**](https://github.com/y20k/escapepod) <sup>**[[F-Droid](https://f-droid.org/app/org.y20k.escapepod)]**</sup>
 - [**Tsacdop**](https://github.com/stonega/tsacdop) <sup>**[[F-Droid](https://f-droid.org/app/com.stonegate.tsacdop)]**</sup>
+- [**AntennaPod**](https://github.com/AntennaPod/AntennaPod) <sup>**[[F-Droid](https://f-droid.org/app/de.danoeh.antennapod)]**</sup>
 
 
 ### • SMS
@@ -301,6 +318,7 @@ Table of Contents
 ### • Synchronisation
 - [**aCalDAV**](https://github.com/ennswi/AndroidCaldavSyncAdapater) <sup>**[[F-Droid](https://f-droid.org/app/de.we.acaldav)]**</sup>
 - [**DAVx⁵**](https://www.davx5.com/) <sup>**[[F-Droid](https://f-droid.org/app/at.bitfire.davdroid)]**</sup>
+- [**DecSync CC**](https://github.com/39aldo39/DecSyncCC) <sup>**[[F-Droid](https://f-droid.org/app/org.decsync.cc)]**</sup>
 - [**EteSync**](https://github.com/etesync/android) <sup>**[[F-Droid](https://f-droid.org/app/com.etesync.syncadapter)]**</sup>
 - [**Syncthing**](https://github.com/syncthing/syncthing-android) <sup>**[[F-Droid](https://f-droid.org/app/com.nutomic.syncthingandroid)]**</sup>
 - [**ownCloud**](https://github.com/owncloud/android) <sup>**[[F-Droid](https://f-droid.org/app/com.owncloud.android)]**</sup>
